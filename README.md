@@ -10,6 +10,11 @@ Pour ce test final vous allez être évalués sur votre maîtrise du framework N
 - BONIFACIO Timothé
 - Yoann CLAISSE
 
+### Commandes Npm
+
+- npm run start:mongodb
+- npm run test:e2e:mongodb
+
 ## Critères
 
 Avant de rendre votre projet, vous devez vous assurer d'avoir respecté **4 critères obligatoires** :
